@@ -4,8 +4,8 @@ Repository-ul contine momentan interfata web
 prin care angajatii se pot autentifica
 in sistem.
 
-Pentru primul sprint, sistemul trebuie
-dispune de functionalitatile de inregistrare
+Pentru primul sprint, sistemul dispune
+de functionalitatile de inregistrare
 cont si autentificare.
 
 Momentan site-ul nu este publicat, astfel
